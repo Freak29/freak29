@@ -9,7 +9,7 @@ I'm a recent Computer Science graduate passionate about data science, machine le
 - Machine Learning: Regression, Classification, Clustering
 - Tools: Git, GitHub, Jupyter Notebook
 - Databases: SQL
-- 
+  
 ## 🌱 Projects
 
 1. **[Data Science & ML](https://github.com/Freak29?tab=projects)**
